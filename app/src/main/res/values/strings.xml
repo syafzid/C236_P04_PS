@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Reservation</string>
+
+    <string name="name">Name:</string>
+    <string name="number">Mobile Number:</string>
+    <string name="pax">No. of Pax:</string>
+    <string name="date">Pick a Date:</string>
+    <string name="time"> Pick a Timing:</string>
+    <string name="smoking">Check for Table in Smoking Area</string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+
+    <string name="hintName">Enter your name</string>
+    <string name="hintNumber">Enter your mobile number</string>
+    <string name="hintPax">Enter no. of pax</string>
+</resources>
